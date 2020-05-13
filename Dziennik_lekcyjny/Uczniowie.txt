@@ -1,0 +1,10 @@
+99120217386, Maciej, Adamczyk, 02.12.1999, Bony, 4/3, Gliwice
+99081627482, Piotr, Kit, 16.08.1999, Niepodleglosci, 6, Knurow
+99020217181, Iza, Malce, 02.02.1999, Bony, 6/6, Gliwice
+99100129820, Malwina, Kowalska, 01.10.1999, Szpitalna, 12, Knurow
+99081482938, Krystian, Nowak, 14.08.1999, Bony, 3/8, Gliwice
+98040498265, Olga, Kowalczyk, 04.04.1998, Szpitalna, 15, Knurow
+98020298376, Mateusz, Wach, 02.02.1998, Akademicka, 20/1, Gliwice
+20190129038, Filip, Maciejczak, 19.01.2000, Akademicka, 13, Gliwice
+20010202973, Arkadiusz, Pawlikowski, 02.01.2000, Niepodleglosci, 19, Knurow
+21060919273, Marzena, Wolny, 09.06.2001, Zwyciestwa, 21, Gliwice

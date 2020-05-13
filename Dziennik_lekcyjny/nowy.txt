@@ -1,0 +1,13 @@
+Srednia z przedmiotu historia wynosi 4.33333.
+
+Srednia z przedmiotu fizyka wynosi 3.16667.
+
+Uczniowie posiadajacy srednie wyzsza niz 4 z przedmiotu fizyka:
+
+Imie, nazwisko, pesel
+
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+

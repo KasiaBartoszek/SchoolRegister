@@ -1,0 +1,35 @@
+Srednia z przedmiotu fizyka wynosi 3.16667.
+
+Uczniowie mieszkajacy na ulicy Szpitalna:
+
+Imie, nazwisko, pesel
+
+Malwina Kowalska 99100129820
+Olga Kowalczyk 98040498265
+
+Uczniowie posiadajacy srednie wyzsza niz 3 z przedmiotu matematyka:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Piotr Kit 99081627482
+Iza Malce 99020217181
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
+Urodzeni pomiedzy 1998 a 2000:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Piotr Kit 99081627482
+Iza Malce 99020217181
+Malwina Kowalska 99100129820
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Mateusz Wach 98020298376
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
