@@ -1,0 +1,93 @@
+Srednia z przedmiotu fizyka wynosi 3.16667.
+
+Srednia z przedmiotu matematyka wynosi 4.
+
+Srednia z przedmiotu historia wynosi 4.33333.
+
+Srednia z przedmiotu matematyka wynosi 4.
+
+Srednia z przedmiotu fizyka wynosi 3.16667.
+
+Urodzeni pomiedzy 1998 a 1999:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Piotr Kit 99081627482
+Iza Malce 99020217181
+Malwina Kowalska 99100129820
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Mateusz Wach 98020298376
+
+Urodzeni pomiedzy 1999 a 2000:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Piotr Kit 99081627482
+Iza Malce 99020217181
+Malwina Kowalska 99100129820
+Krystian Nowak 99081482938
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
+Uczniowie mieszkajacy na ulicy Bony:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Iza Malce 99020217181
+Krystian Nowak 99081482938
+
+Uczniowie mieszkajacy na ulicy Szpitalna:
+
+Imie, nazwisko, pesel
+
+Malwina Kowalska 99100129820
+Olga Kowalczyk 98040498265
+
+Uczniowie mieszkajacy na ulicy Akademicka:
+
+Imie, nazwisko, pesel
+
+Mateusz Wach 98020298376
+Filip Maciejczak 20190129038
+
+Uczniowie mieszkajacy na ulicy Nowa:
+
+Imie, nazwisko, pesel
+
+
+Uczniowie posiadajacy srednie wyzsza niz 4 z przedmiotu fizyka:
+
+Imie, nazwisko, pesel
+
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
+Uczniowie posiadajacy srednie wyzsza niz 2 z przedmiotu matematyka:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Piotr Kit 99081627482
+Iza Malce 99020217181
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
+Uczniowie posiadajacy srednie wyzsza niz 3 z przedmiotu historia:
+
+Imie, nazwisko, pesel
+
+Marzena Wolny 21060919273
+
+Uczniowie posiadajacy srednie wyzsza niz 5 z przedmiotu matematyka:
+
+Imie, nazwisko, pesel
+
+

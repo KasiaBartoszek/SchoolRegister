@@ -1,0 +1,16 @@
+99101215381, matematyka, 4, odpowiedz ustna
+99101215381, matematyka, 3.5, sprawdzian
+99120217386, matematyka, 4.5, sprawdzian
+99081627482, fizyka, 3, kartkowka
+99020217181, fizyka, 4, odpowiedz ustna
+99020217181, matematyka, 4, sprawdzian
+99100129820, fizyka, 3.5, kartkowka
+99081482938, fizyka, 4, kartkowka
+99081482938, matematyka, 4, sprawdzian
+98040498265, historia, 3, odpowiedz
+20190129038, fizyka, 2, kartkowka
+20190129038, historia, 5, sprawdzian
+20010202973, matematyka, 4.5, sprawdzian
+20010202973, historia, 5, odpowiedz
+21060919273, fizyka, 3, kartkowka
+21060919273, matematyka, 5, sprawdzian

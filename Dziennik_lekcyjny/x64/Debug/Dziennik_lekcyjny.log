@@ -1,0 +1,22 @@
+﻿  Load_file.cpp
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(71): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(76): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(81): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\load_file.cpp(86): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Methods.cpp
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\methods.cpp(93): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  School_register.cpp
+  Students.cpp
+  Subjects.cpp
+  load_params.cpp
+  main.cpp
+  Generating Code...
+c:\users\kasia\source\repos\projektdziennik\projektdziennik\dziennik_lekcyjny\methods.cpp(41): warning C4715: 'Methods::infoprocedures': not all control paths return a value
+  Dziennik_lekcyjny.vcxproj -> C:\Users\Kasia\source\repos\ProjektDziennik\ProjektDziennik\x64\Debug\Dziennik_lekcyjny.exe

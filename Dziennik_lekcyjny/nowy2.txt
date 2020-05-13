@@ -1,0 +1,48 @@
+Srednia z przedmiotu fizyka wynosi 3.16667.
+
+Srednia z przedmiotu matematyka wynosi 4.
+
+Urodzeni pomiedzy 1999 a 2000:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Piotr Kit 99081627482
+Iza Malce 99020217181
+Malwina Kowalska 99100129820
+Krystian Nowak 99081482938
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
+Urodzeni pomiedzy 2000 a 2001:
+
+Imie, nazwisko, pesel
+
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+Marzena Wolny 21060919273
+
+Srednia z przedmiotu jk wynosi 0.
+
+Uczniowie posiadajacy srednie wyzsza niz 4.0 z przedmiotu matematyka:
+
+Imie, nazwisko, pesel
+
+Iza Malce 99020217181
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
+Uczniowie posiadajacy srednie wyzsza niz 3.2 z przedmiotu matematyka:
+
+Imie, nazwisko, pesel
+
+Maciej Adamczyk 99120217386
+Piotr Kit 99081627482
+Iza Malce 99020217181
+Krystian Nowak 99081482938
+Olga Kowalczyk 98040498265
+Filip Maciejczak 20190129038
+Arkadiusz Pawlikowski 20010202973
+
